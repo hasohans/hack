@@ -1,0 +1,2 @@
+90 ülkenin numaralarýna sms bombalama yapa bilirsiniz.
+Python 3 ile çalýþýr.
